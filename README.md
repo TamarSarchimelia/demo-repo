@@ -2,5 +2,5 @@
 
 some description.
 
-## pleas, work
+## please, work
 
